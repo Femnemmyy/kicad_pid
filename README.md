@@ -1,6 +1,6 @@
 # Rocketey PI&D KiCAD Library
 
-This repository contains a set of P&ID symbols as KiCAD symbols. The symbol set was created for use in rocketry by UK university rocketry teams:
+This repository contains a set of P&ID symbols for use within KICAD 8.0. The symbol set was created for use in rocketry by UK university rocketry teams:
 
 - Kingston University London (KURE)
 - Sheffield University (Sunride)
